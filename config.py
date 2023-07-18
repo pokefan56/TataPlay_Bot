@@ -1,6 +1,6 @@
-api_id = 17193413
+api_id = 9976721
 
-api_hash = "5e50e6380252d9d487093bae4171bf91"
+api_hash = "3ef17a8cdb938335bd8ba292e6d816aa"
 
 bot_token = "6094200729:AAF7U2jM_T35Wb4nWdvPdndFNjtZ7oQeTTA"
 
